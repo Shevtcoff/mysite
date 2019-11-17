@@ -17,6 +17,11 @@ https://creatwim.ru/
 https://www.clubbosyakov.ru/  
 https://www.windows-soft.ru/  
 https://www.windows-soft.ru/legal-entities/  
+https://inglavstrah.ru/  
+https://росглавстрах.рф/  
+http://inglavstrahreport.ru/  
+http://ипотека-в-тамбове.рф/calc/  
+http://портал-е-осаго.рф/  
 
 ## Готовые решения для маркеплейс:
 http://marketplace.1c-bitrix.ru/solutions/twim.gossite/  
@@ -34,3 +39,12 @@ http://bulava.ru/
 http://m.bulava.ru/  
 http://bestmama.ru/  
 http://sunny-vrn.ru/  
+
+## Интеграция и частично верстка:
+http://new.proutdoor.ru/  
+https://i-yarmarka36.ru/  
+https://alumni-cchgeu.creatwim.ru/  
+
+## Доработки
+https://barakat-shop.ru/catalog/knigi-i-diski/kirgizskaya-literatura/  
+
