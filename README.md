@@ -45,6 +45,6 @@ http://new.proutdoor.ru/
 https://i-yarmarka36.ru/  
 https://alumni-cchgeu.creatwim.ru/  
 
-## Доработки
+## Доработки:
 https://barakat-shop.ru/catalog/knigi-i-diski/kirgizskaya-literatura/  
 
