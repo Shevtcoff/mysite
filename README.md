@@ -15,6 +15,7 @@ http://muob.ru/
 http://demo.muob.ru/  
 https://creatwim.ru/  
 https://www.clubbosyakov.ru/  
+http://www.helmar-shoes.ru/  
 https://www.windows-soft.ru/  
 https://www.windows-soft.ru/legal-entities/  
 https://m.windows-soft.ru/  
