@@ -17,6 +17,7 @@ https://creatwim.ru/
 https://www.clubbosyakov.ru/  
 https://www.windows-soft.ru/  
 https://www.windows-soft.ru/legal-entities/  
+https://m.windows-soft.ru/  
 https://inglavstrah.ru/  
 https://росглавстрах.рф/  
 http://inglavstrahreport.ru/  
@@ -39,6 +40,7 @@ http://bulava.ru/
 http://m.bulava.ru/  
 http://bestmama.ru/  
 http://sunny-vrn.ru/  
+http://www.helpdeti.ru/  
 
 ## Интеграция и частично верстка:
 http://new.proutdoor.ru/  
