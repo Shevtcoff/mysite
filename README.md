@@ -24,6 +24,7 @@ https://росглавстрах.рф/
 http://inglavstrahreport.ru/  
 http://ипотека-в-тамбове.рф/calc/  
 http://портал-е-осаго.рф/  
+http://federal-print.ru/  
 
 ## Готовые решения для маркеплейс:
 http://marketplace.1c-bitrix.ru/solutions/twim.gossite/  
