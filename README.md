@@ -21,10 +21,7 @@ https://www.windows-soft.ru/legal-entities/
 https://m.windows-soft.ru/  
 https://inglavstrah.ru/  
 https://росглавстрах.рф/  
-http://inglavstrahreport.ru/  
 http://ипотека-в-тамбове.рф/calc/  
-http://портал-е-осаго.рф/  
-http://federal-print.ru/  
 
 ## Готовые решения для маркеплейс:
 http://marketplace.1c-bitrix.ru/solutions/twim.gossite/  
@@ -47,7 +44,6 @@ http://www.helpdeti.ru/
 ## Интеграция и частично верстка:
 http://new.proutdoor.ru/  
 https://i-yarmarka36.ru/  
-https://alumni-cchgeu.creatwim.ru/  
 
 ## Доработки:
 https://barakat-shop.ru/catalog/knigi-i-diski/kirgizskaya-literatura/  
