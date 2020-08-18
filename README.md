@@ -22,6 +22,7 @@ https://m.windows-soft.ru/
 https://inglavstrah.ru/  
 https://росглавстрах.рф/  
 http://ипотека-в-тамбове.рф/calc/  
+https://starboxvrn.ru/
 
 ## Готовые решения для маркеплейс:
 http://marketplace.1c-bitrix.ru/solutions/twim.gossite/  
